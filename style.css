@@ -1,0 +1,44 @@
+#container
+{
+	width:1000px;
+	border:1px solid black;
+	border-radius:10px;
+	background:white;
+	margin:auto;
+}
+#content
+{
+	padding:10px 0px 10px 0px;
+}
+#header
+{
+	border-bottom:1px solid black;
+}
+#footer
+{
+	border-top:1px solid black;
+}
+a.button
+{
+	text-decoration:none;
+	color:black;
+	width:50%;
+	margin:auto;
+	padding:10px;
+	display: block;
+    text-align: center;
+	border:1px solid black;
+	border-radius:10px;
+}
+.rightanswer
+{
+	color:green;
+}
+.wronganswer
+{
+	color:red;
+}
+#creatorform input
+{
+	//width:100%;
+}
